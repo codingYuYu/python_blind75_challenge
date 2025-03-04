@@ -4,3 +4,6 @@ https://hackmd.io/@zz8yeJXcQYOjqL6CsPNdlg/SJLwCLC-3
 
 Blind 75
 https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
+
+peter 中文解說 (超讚，解法也比較可以理解)
+https://www.youtube.com/playlist?list=PL423bwp1-ClwVFyzAE_Cqjhptc-ae0osl
